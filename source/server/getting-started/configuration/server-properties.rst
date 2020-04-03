@@ -44,7 +44,7 @@ Here is the default server.properties file of an unmodified Minecraft 1.8.1 serv
     spawn-animals=true
     white-list=false
     generate-structures=true
-    online-mode=true
+    online-mode=false
     max-build-height=256
     level-seed=
     use-native-transport=true
